@@ -6,14 +6,14 @@
 <tr>
 <td>
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorfdasilva&theme=radical"
+    src="https://github-readme-stats-green-two-72.vercel.app/api/cards/stats?username=vitorfdasilva&theme=radical"
     height="180"
   />
 </td>
 
 <td>
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorfdasilva&theme=radical"
+    src="https://github-readme-stats-green-two-72.vercel.app/api/cards/repos-per-language?username=vitorfdasilva&theme=radical"
     height="180"
   />
 </td>
