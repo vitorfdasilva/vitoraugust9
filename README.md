@@ -4,12 +4,12 @@
 
 <div align="center">
   <img
-    src="github-readme-stats-green-two-72.vercel.app/api?username=vitorfdasilva&show_icons=true&count_private=true&theme=radical"
+    src="https://github-readme-stats-green-two-72.vercel.app/api?username=vitorfdasilva&show_icons=true&count_private=true&theme=radical"
     height="180"
   />
 
   <img
-    src="github-readme-stats-green-two-72.vercel.app/api/top-langs/?username=vitorfdasilva&layout=compact&count_private=true&theme=radical"
+    src="https://github-readme-stats-green-two-72.vercel.app/api/top-langs/?username=vitorfdasilva&layout=compact&count_private=true&theme=radical"
     height="180"
   />
 </div>
