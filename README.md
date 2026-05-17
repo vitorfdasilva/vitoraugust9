@@ -3,21 +3,14 @@
 <h1 align="center">Hello! I'm Vitor Augusto, a QA and Developer from Brazil, passionate about technology, test automation, and web development.</h1>
 
 <table align="center">
-<tr>
-<td>
-  <img
-    src="https://github-readme-stats-green-two-72.vercel.app/api/cards/stats?username=vitorfdasilva&theme=radical"
-    height="180"
-  />
-</td>
-
-<td>
-  <img
-    src="https://github-readme-stats-green-two-72.vercel.app/api/cards/repos-per-language?username=vitorfdasilva&theme=radical"
-    height="180"
-  />
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-green-two-72.vercel.app/api?username=vitorfdasilva&show_icons=true&theme=radical&count_private=true" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-green-two-72.vercel.app/api/top-langs/?username=vitorfdasilva&layout=compact&theme=radical&count_private=true" height="180" />
+    </td>
+  </tr>
 </table>
 
 <br />
