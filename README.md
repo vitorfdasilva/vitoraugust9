@@ -3,8 +3,15 @@
 <h1 align="center">Hello! I'm Vitor Augusto, a QA and Developer from Brazil, passionate about technology, test automation, and web development.</h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vitoraugust9&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfdasilva&layout=compact&theme=radical&hide_border=true" height="180" alt="Top languages" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=vitorfdasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfdasilva&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"
+  />
 </div>
 
 <br />
